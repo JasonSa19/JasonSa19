@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason
-- 👀 I’m interested in webdesign, web-developement and motorsports🏎
+- 👀 I’m interested in webdesign, web-development and motorsports🏎
 - 🏫 I am currently doing an apprenticeship
 - 🌱 Currently, I try to learn developing with React.js
 
