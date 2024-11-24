@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason
 - 👀 I’m interested in webdesign, web-development and motorsports🏎
-- 🏫 Currently, I am working as a Frontend-Developer @ Kreativkarussell GmbH 
+- 🏫 Currently, I am working as a Frontend-Developer @ Coding Pioneers GmbH 
 - 🌱 Currently, I try to learn developing with Vue.js, Vite.js and creating own WP-Themes
 
 <!---
