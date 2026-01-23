@@ -6,4 +6,4 @@
 - 🌱 Currently, I try to learn developing with React.js, Vite.js and creating own WP-Themes
 
 
-<a href="https://app.daily.dev/jason19"><img src="https://api.daily.dev/devcards/v2/P3yikgyLnafvZWiQFdSXd.png?r=sb2&type=default" width="100%" alt="Jason Sauerwald's Dev Card"/></a>
+<a href="https://app.daily.dev/jason19"><img src="https://api.daily.dev/devcards/v2/P3yikgyLnafvZWiQFdSXd.png?r=sb2&type=default" width="356" alt="Jason Sauerwald's Dev Card"/></a>
